@@ -1,2 +1,3 @@
 # PreCourse-Henry
-Este es un repositorio de Prueba
+Este proyecto es una prueba de Henry
+
